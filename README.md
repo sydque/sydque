@@ -36,10 +36,10 @@ I design, automate, and operate cloud infrastructure for services that need to s
 <div align="center">
 
 <a href="https://github.com/sydque">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sydque&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent" alt="Sydque's GitHub statistics" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sydque&theme=transparent" alt="Sydque's GitHub statistics" />
 </a>
 <a href="https://github.com/sydque">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sydque&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Sydque's most used languages" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sydque&theme=transparent" alt="Sydque's most used languages" />
 </a>
 
 <br>
@@ -54,7 +54,7 @@ I design, automate, and operate cloud infrastructure for services that need to s
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sydque&hide_border=true&area=true&bg_color=00000000&color=2f81f7&line=2f81f7&point=1f6feb" alt="Sydque's contribution activity graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sydque&theme=transparent" alt="Sydque's contribution activity summary" />
 
 </div>
 
